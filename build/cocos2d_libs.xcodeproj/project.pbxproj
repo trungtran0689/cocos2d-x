@@ -3326,7 +3326,6 @@
 		E8BC4CA9199755FF0081A528 /* CCSpriteLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpriteLoader.h; sourceTree = "<group>"; };
 		E8BC4CAA199755FF0081A528 /* CCTextFieldLoader.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CCTextFieldLoader.cpp; sourceTree = "<group>"; };
 		E8BC4CAB199755FF0081A528 /* CCTextFieldLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTextFieldLoader.h; sourceTree = "<group>"; };
-		E8BC4CAC199755FF0081A528 /* LICENSE_SpriteBuilder.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_SpriteBuilder.txt; sourceTree = "<group>"; };
 		E8BC4CAD199755FF0081A528 /* SpriteBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpriteBuilder.h; sourceTree = "<group>"; };
 		E8BC4E0A1997564E0081A528 /* libcocosbuilder iOS copy.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libcocosbuilder iOS copy.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED9C6A9218599AD8000A5232 /* CCNodeGrid.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; lineEnding = 0; path = CCNodeGrid.cpp; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.cpp; };
@@ -5615,7 +5614,6 @@
 				E8BC4CA9199755FF0081A528 /* CCSpriteLoader.h */,
 				E8BC4CAA199755FF0081A528 /* CCTextFieldLoader.cpp */,
 				E8BC4CAB199755FF0081A528 /* CCTextFieldLoader.h */,
-				E8BC4CAC199755FF0081A528 /* LICENSE_SpriteBuilder.txt */,
 				E8BC4CAD199755FF0081A528 /* SpriteBuilder.h */,
 			);
 			path = spritebuilder;
